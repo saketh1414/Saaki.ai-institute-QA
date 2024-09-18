@@ -1,8 +1,5 @@
 from langchain_google_genai import ChatGoogleGenerativeAI
 import os
-#from langchain.document_loaders.csv_loader import CSVLoader
-#from langchain.embeddings import HuggingFaceInstructEmbeddings
-#from langchain.vectorstores import FAISS
 from langchain_community.document_loaders import CSVLoader
 from langchain_community.embeddings import HuggingFaceInstructEmbeddings
 from langchain_community.vectorstores import FAISS
