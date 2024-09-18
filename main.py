@@ -60,7 +60,6 @@ def get_qa_chain():
 
 
 if __name__=="__main__":
-    #if data base is not created then uncomment first line and comment chain and run
     if not os.path.exists(f"{vectordb_file_path}.index"):
         create_vector_db()
     chain=get_qa_chain()
