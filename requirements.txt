@@ -1,0 +1,12 @@
+langchain
+langchain-community
+python-dotenv
+streamlit
+tiktoken
+faiss-cpu
+protobuf~=3.19.0
+ipykernel
+langchain-google-genai
+InstructorEmbedding
+torch
+sentence-transformers==2.2.2
