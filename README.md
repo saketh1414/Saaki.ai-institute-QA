@@ -6,9 +6,9 @@
 5)gemini-1.5-flash llm is used to generate the answers.
 
 
-instructions:
-->first create your virtural environment venv in your vs code
-->activate your venv
-->install all the packages in requirements.txt
-->run- python main.py (this will take a while for the first time to create the DB)
-->run- streamlit run app.py
+#instructions:
+1)first create your virtural environment venv in your vs code
+2)activate your venv
+3)install all the packages in requirements.txt
+4)run- python main.py (this will take a while for the first time to create the DB)
+5)run- streamlit run app.py
