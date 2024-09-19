@@ -13,3 +13,5 @@
 3)install all the packages in requirements.txt  
 4)run- python main.py (this will take a while for the first time to create the DB).  
 5)run- streamlit run app.py
+
+go through images of streamlit interface in "screenshots" folder
